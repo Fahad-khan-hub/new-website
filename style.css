@@ -1,19 +1,27 @@
-body{
+    body{
 
- font-family: 'Poppins', sans-serif;
-}
+    font-family: 'Poppins', sans-serif;
+    }
 
-h1{
-font-size: 50px;
+    h1{
+    font-size: 50px;
 
-}
-.name-highlight{
-    color:salmon;
-}
-.half-width{
-width: 40%;
-float: left;
-}
-.half-width img{
-    width: 100%;
-}
+    }
+    .name-highlight{
+        color:salmon;
+    }
+    .half-width{
+    width: 40%;
+    float: left;
+    }
+    .half-width img{
+        width: 100%;
+    }
+    .link-button{
+        text-decoration: none;
+        background-image: linear-gradient(rgb(247, 222, 213),tomato);
+        padding: 10px 20px;
+        border-radius: 5px;
+        color: white;
+        font-weight: 700;
+    }
